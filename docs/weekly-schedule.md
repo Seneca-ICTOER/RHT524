@@ -55,7 +55,7 @@ description: Weekly Schedule for RHT524
 | --- | --- | --- |
 | Monitoring and managing Linux processes | Textbook chapter 8 | [Lab 6](/A-Labs/lab6.md) |
 |  |  | Quiz 5 |
-|  |  | [Assignment 1](/C-Assignments/assignment1.md) |
+|  |  | [Assignment 1](/B-Assignments/assignment1.md) |
 
 ## Study Week
 
@@ -105,7 +105,7 @@ description: Weekly Schedule for RHT524
 | --- | --- | --- |
 | Analyzing servers and getting support | Textbook chapter 16 | Test 2 |
 |  |  | Quiz 11 |
-|  |  | [Assignment 2](/C-Assignments/assignment2.md) |
+|  |  | [Assignment 2](/B-Assignments/assignment2.md) |
 
 ## Week 14
 
