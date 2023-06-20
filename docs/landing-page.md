@@ -10,7 +10,7 @@ description: Landing Page for RHT524
 
 ## Quick Links
 
-| [Weekly Schedule](./weekly-schedule.md) | [Course Outline](https://apps.senecacollege.ca/ssos/print/cpo500/20221/) | [Assignment 1](/C-Assignments/assignment1.md) | [Assignment 2](/C-Assignments/assignment2.md) |
+| [Weekly Schedule](./weekly-schedule.md) | [Course Outline](https://apps.senecacollege.ca/ssos/print/cpo500/20221/) | [Assignment 1](/B-Assignments/assignment1.md) | [Assignment 2](/B-Assignments/assignment2.md) |
 | --- | --- | --- | --- |
 
 ## What This Course is About
