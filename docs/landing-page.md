@@ -6,7 +6,9 @@ slug: /
 description: Landing Page for RHT524
 ---
 
-# Welcome to RHT524 - Open Source Certification I
+# Welcome to RHT524
+
+## Open Source Certification I
 
 ## Quick Links
 
